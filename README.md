@@ -17,5 +17,6 @@ contains:
 | Nina Simone | Turn Me On | irealb |
 | Pink Floyd | Wish You Were Here | tabs |
 | Pixies | Where is My Mind | tabs | 
+| Van Morrison | Into the Mystic | pdf |
 | Van Morrison | Moondance | irealb |
 
