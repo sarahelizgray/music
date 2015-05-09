@@ -4,7 +4,8 @@ contains:
 * tab sheets
 * misc pdfs
 
-Songs
+#songs
+
 | **Artist** | **Song** | **Dirs/Type** |
 | -------- | -------- | -------- |
 | Albert King | Born Under a Bad Sign | tabs |
