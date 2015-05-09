@@ -15,6 +15,7 @@ contains:
 | Etta James | Fool That I Am | irealb |
 | Nina Simone | Turn Me On | pdf |
 | Nina Simone | Turn Me On | irealb |
+| Old Crow Medicine Show | Sweet Amarillo | tabs |
 | Pink Floyd | Wish You Were Here | tabs |
 | Pixies | Where is My Mind | tabs | 
 | Van Morrison | Into the Mystic | pdf |
