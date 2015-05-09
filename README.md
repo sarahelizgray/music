@@ -5,7 +5,7 @@ contains:
 * misc pdfs
 
 Songs
-|**Artist** | **Song** | **Dirs/Type** |
+| **Artist** | **Song** | **Dirs/Type** |
 | -------- | -------- | -------- |
 | Albert King | Born Under a Bad Sign | tabs |
 | Beatles | I'll Follow the Sun | tabs |
@@ -18,8 +18,3 @@ Songs
 | Pixies | Where is My Mind | tabs | 
 | Van Morrison | Moondance | irealb |
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
