@@ -19,6 +19,7 @@ contains:
 | Old Crow Medicine Show | Sweet Amarillo | tabs |
 | Pink Floyd | Wish You Were Here | tabs |
 | Pixies | Where is My Mind | tabs | 
+| Rufus Wainright | Across the Universe | tab |
 | Van Morrison | Into the Mystic | pdf |
 | Van Morrison | Moondance | irealb |
 
