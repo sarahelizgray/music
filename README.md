@@ -1,2 +1,4 @@
 # music
-files for irealbook
+files for:
+* irealbook
+* pdfs
