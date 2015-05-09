@@ -13,6 +13,7 @@ contains:
 | Beatles | Something | tabs |
 | Edith Piaf | La Vie En Rose | irealb |
 | Etta James | Fool That I Am | irealb |
+| Etta James | Fool That I Am | tabs |
 | Nina Simone | Turn Me On | pdf |
 | Nina Simone | Turn Me On | irealb |
 | Old Crow Medicine Show | Sweet Amarillo | tabs |
