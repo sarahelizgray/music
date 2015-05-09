@@ -1,4 +1,5 @@
 # music
-files for:
-* irealbook
-* pdfs
+contains:
+* irealbook files
+* tab sheets
+* misc pdfs
