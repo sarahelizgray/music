@@ -11,6 +11,7 @@ contains:
 | Albert King | Born Under a Bad Sign | tabs |
 | Beatles | I'll Follow the Sun | tabs |
 | Beatles | Something | tabs |
+| Bob Dylan | Forever Young | tabs |
 | Edith Piaf | La Vie En Rose | irealb |
 | Etta James | Fool That I Am | irealb |
 | Etta James | Fool That I Am | tabs |
