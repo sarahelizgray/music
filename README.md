@@ -21,6 +21,7 @@ contains:
 | Pink Floyd | Wish You Were Here | tabs |
 | Pixies | Where is My Mind | tabs | 
 | Rufus Wainright | Across the Universe | tab |
+| Van Morison | Caravan | tab |
 | Van Morrison | Into the Mystic | pdf |
 | Van Morrison | Moondance | irealb |
 
