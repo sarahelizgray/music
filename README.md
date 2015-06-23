@@ -9,6 +9,7 @@ contains:
 | **Artist** | **Song** | **Dirs/Type** |
 | -------- | -------- | -------- |
 | Albert King | Born Under a Bad Sign | tabs |
+| The Allman Brothers | Melissa | tabs |
 | Beatles | I'll Follow the Sun | tabs |
 | Beatles | Something | tabs |
 | Bob Dylan | Forever Young | tabs |
