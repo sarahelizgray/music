@@ -21,8 +21,8 @@ contains:
 | Nina Simone | [Turn Me On](https://www.youtube.com/watch?v=WiRFLaSpSh4) | pdf |
 | Nina Simone | [Turn Me On](https://www.youtube.com/watch?v=WiRFLaSpSh4) | irealb |
 | Led Zeppelin | [Stairway to Heaven](https://www.youtube.com/watch?v=8pPvNqOb6RA) | |
-
 | Lydia Loveless | [Blind](https://www.youtube.com/watch?v=FwxWKr_A3r0) | |
+| Muse | [Madness -live in Rome](https://www.youtube.com/watch?v=6w5KCf8hXvo) | |
 | Old Crow Medicine Show | [Sweet Amarillo](https://www.youtube.com/watch?v=4-NaZzG5eAU) | tabs |
 | Ozma | [Korobeiniki](https://www.youtube.com/watch?v=BFzQL9AQBL4) | |
 | Pink Floyd | [Wish You Were Here](https://www.youtube.com/watch?v=3j8mr-gcgoI) | tabs |
