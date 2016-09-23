@@ -11,7 +11,10 @@ contains:
 | ACDC | [It's a Long Way to the Top](https://www.youtube.com/watch?v=-sUXMzkh-jI) | |
 | Albert King | [Born Under a Bad Sign](https://www.youtube.com/watch?v=uAFO4cBlS8o) | tabs |
 | The Allman Brothers | [Melissa](https://www.youtube.com/watch?v=WFJ20eNspzo) | tabs |
+| Beatles | [All my Loving](https://www.youtube.com/results?search_query=all+my+loving+beatles) | |
+| Beatles | [Blackbird](https://www.youtube.com/watch?v=Mo_DMGc2v5o) | |
 | Beatles | [I'll Follow the Sun](https://www.youtube.com/watch?v=Jwgtf0Zo-Ck) | tabs |
+| Beatles | [From Me to You](https://www.youtube.com/watch?v=oJB7igUaWW0) | |
 | Beatles | [Something](https://www.youtube.com/watch?v=0xeu-mN-NQs) | tabs |
 | Bob Dylan | [Forever Young](https://www.youtube.com/watch?v=jtFEzhaNrT4) | tabs |
 | Bob Marley | [No Woman No Cry](https://www.youtube.com/watch?v=jGqrvn3q1oo) | |
